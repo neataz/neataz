@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @neataz
+- 👀 I’m interested in Gaming, Sports...
+- 🌱 I’m currently learning Python...
+- 📫 How to reach me neataz#0001...
+
+<!---
+neataz/neataz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
